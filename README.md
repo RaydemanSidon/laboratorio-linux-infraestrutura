@@ -26,6 +26,7 @@ O objetivo é registrar procedimentos técnicos utilizados na gestão de ambient
 - Implementação de rotina de backup
 - Criação de máquinas virtuais
 - Snapshot e restauração de ambiente
+- Automação de backup com script Bash
 
 ---
 
