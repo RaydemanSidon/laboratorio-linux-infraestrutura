@@ -12,7 +12,7 @@ Script responsável por:
 - Organizar backups por data
 - Criar diretório automaticamente
 - Registrar execução em log
-- Garantir controle básico de erro
+- Manter política de retenção de 7 dias
+- Remover automaticamente backups antigos
 
-Pode ser agendado via crontab para execução automática.
 
